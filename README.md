@@ -3,7 +3,7 @@ swallow
 
 swallow is a python utility that generates a wallpaper
 by overlaying [bookreporter.com's quote of the day][1] on
-on [Bing's wallpaper of the day][2].
+[Bing's wallpaper of the day][2].
 
 [1]: http://www.bookreporter.com/features/quotes
 [2]: http://www.bing.com
